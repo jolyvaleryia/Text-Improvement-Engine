@@ -14,9 +14,11 @@ It is a Texte Improvement Engine that analyses a text using a pre-trained langua
 
 ## Requirements
 
-Python 3.9.13
-Virtual Environment with installed libraries pandas, tensorflow, tensorflow_hub, scikit-learn and nltk.
-Pre-load a list of English stopwords.
+- Python 3.9.13
+  
+- Virtual Environment with installed libraries pandas, tensorflow, tensorflow_hub, scikit-learn and nltk.
+  
+- Pre-load a list of English stopwords.
 
 ## Installation
 
